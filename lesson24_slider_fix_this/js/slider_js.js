@@ -48,5 +48,6 @@ var slider1 = {
     }
 }
 
+
 //add this declaration into another file.
 slider1.start();
