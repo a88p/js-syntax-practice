@@ -1,0 +1,15 @@
+.itk-slider {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.itk-slider .slide-img {
+  width: 500px;
+  max-width: 80%;
+  max-height: 200px;
+}
+
+div {
+  display: block;
+}

@@ -1,0 +1,8 @@
+.input {
+  border: green 5px solid;
+  padding: 5px;
+}
+
+.temp-error {
+  border: red 3px solid;
+}
