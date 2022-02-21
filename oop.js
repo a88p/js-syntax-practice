@@ -4,5 +4,4 @@ function Dog() {
         console.log('Hey')
     }
 }
-
-Dog();
+new Dog();
